@@ -130,6 +130,7 @@ ul li {
 
 .largecontent {
     background-color: #228b22;
+    border: 1px dotted black;
     height: 600px;
     width: 100%;
 }
