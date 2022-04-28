@@ -23,42 +23,30 @@
 .header-top {
     background-color: #add8e6;
     height: 80px;
-    display: flex;
-    
-    
 }
 
 .content-area {
     background-color: goldenrod;
     width: 70%;
-    margin: auto;
+    
 }
 
 .flex-top-content {
     display: flex;
     justify-content: space-between;
-    
-    
-    
+
 }
 
 
 /* menu */
 
 .menu {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     border: 1px dotted black;
     width: 50%;
 }
 
 ul{
     list-style-type: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
 }
 
 ul a {
@@ -87,9 +75,6 @@ ul li {
 .jumbotron {
     background-color: #00008b;
     height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .jumbo-content {
@@ -102,9 +87,6 @@ ul li {
 /* MAIN */
 
 .flex-white {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 30px 0;
 }
 
@@ -147,9 +129,6 @@ footer {
 .top-footer {
     padding-top: 10px;
     padding-bottom: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .big-footer-section {
@@ -181,9 +160,6 @@ hr {
 
 .bottom-footer {
     padding-top: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .bottom-section {
